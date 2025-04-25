@@ -3,6 +3,9 @@
 Projeto de Console App desenvolvido para o Checkpoint 2 da disciplina **C# Software Development** na FIAP. A aplicação simula o sistema de gestão de uma clínica médica, com funcionalidades de cadastro, agendamento e emissão de relatórios.
 
 ---
+![image](https://github.com/user-attachments/assets/11a694b5-38a8-4890-844b-539921f008f6)
+
+---
 ## 👥 Integrantes do grupo
 
 - Guilherme Catelli Bichaco - RM: 97989
