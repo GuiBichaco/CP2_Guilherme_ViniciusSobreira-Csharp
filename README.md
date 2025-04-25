@@ -3,7 +3,11 @@
 Projeto de Console App desenvolvido para o Checkpoint 2 da disciplina **C# Software Development** na FIAP. A aplicação simula o sistema de gestão de uma clínica médica, com funcionalidades de cadastro, agendamento e emissão de relatórios.
 
 ---
+## 👥 Integrantes do grupo
 
+- Guilherme Catelli Bichaco - RM: 97989
+- Vinicius Sobreira Borges - RM: 97767
+---
 ## 📌 Funcionalidades
 
 - Cadastro de **pacientes** e **médicos**
@@ -46,13 +50,6 @@ Projeto de Console App desenvolvido para o Checkpoint 2 da disciplina **C# Softw
    ```bash
    dotnet run
    ```
-
----
-
-## 👥 Integrantes do grupo
-
-- Guilherme  
-- Vinicius Sobreira Borges
 
 ---
 
