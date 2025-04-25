@@ -1,0 +1,8 @@
+# Ignora pastas e arquivos temporários
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.db
